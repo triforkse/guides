@@ -28,11 +28,12 @@ with a linter where possible, e.g. FindBugs for Java or Eastwood for Clojure.
 ### Formatting
 
 - Keep your lines below 120 or 80 depending on the language.
+- Use Unix `LF` line endings.
 - Don't vertically align arguments or map values.
 - Use one or two spaces between functions and methods. Keep it consistent.
 - Don't put spaces between arguments and parenthesis, i.e. between `(`, `[` and arguments and `)`, `]`.
 - Use spaces between operators and their operands, e.g. Bad: `1+1=2`, Good: `1 + 1 = 2`.
-- Use 2 spaces for indentation, not 4 and not tabs.
+- Use 2 spaces for indentation, not 4, and not tabs.
 - Keep the style of legacy project, don't enforce your own without good reason.
 
 
