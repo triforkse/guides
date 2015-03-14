@@ -10,6 +10,7 @@ that contains all the technical details that are not part of the handbook.
 The guides contain e.g. recommendations, guidelines, project templates,
 code formatters, and scripts.
 
+Apart from the is a list of general guidelines below we also.
 
 # Contributing
 
